@@ -1,1 +1,1 @@
-My first readme in alx-system_engineering-devops
+README in 0x02-shell_redirections
